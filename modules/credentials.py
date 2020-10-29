@@ -1,5 +1,5 @@
 class Creds(object):
-    TOKEN = "bot token here"
+    TOKEN = "1126750432:AAF5IwVsZuIWGQ-rIcFPmiecE1OGSDbt7cQ"
     CLIENT_ID = "client id from google cloud console"
     CLIENT_SECRET = "client secret from google cloud console"
     PATH_ID = "folder id of the gdrive folder in which the bot will upload its files"
